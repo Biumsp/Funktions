@@ -1,4 +1,4 @@
-# Funk Calculus
+# Funk
 
 A simple class that allows to work with real-valued functions using a mathematical syntax  
 
